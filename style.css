@@ -1,0 +1,32 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 40px;
+    background-color: white;
+}
+
+h1 {
+    color: #333;
+    margin-top: 30px;
+}
+
+p {
+    color: #666;
+    font-size: 18px;
+}
+
+button {
+    position: fixed;
+    top: 70%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(142, 185, 237);
+    color: white;
+    border: none;
+    padding: 15px 35px;
+    border-radius: 30px;
+    font-size: 16px;
+    cursor: pointer;
+}
